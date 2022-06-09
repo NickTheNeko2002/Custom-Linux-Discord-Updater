@@ -1,7 +1,7 @@
 # Custom-Discord-Updater
 Custom Discord and DiscordPTB Updater and Installer Script For GNU+Linux
 
-NO WARRANTY OR RESPONSIBILITIES FOR BROKEN SYSTEMS!!!!
+NO WARRANTY OR RESPONSIBILITIES FOR BROKEN OPERATION SYSTEMS DO IT ON YOUR OWN RISK!!!!
 
 ___________________________Installation________________________________
 1st: Download the Script Edition that you like/want
