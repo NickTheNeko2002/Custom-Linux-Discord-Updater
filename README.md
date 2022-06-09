@@ -12,7 +12,7 @@ ___________________________Installation________________________________
   SUSE/OpenSUSE: zypper install wget
   Arch Linux/Manjaro: sudo pacman -S wget
   Alpine Linux: apk add wget
-  ______________________________________________________________________
+
 2nd: Go to settings and set it to run on Startup
 3rd: Just Restart your PC and it should work and run as supposed, Have Fun!! ^-^
 
